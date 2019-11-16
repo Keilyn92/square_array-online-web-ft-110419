@@ -1,5 +1,5 @@
-class Array
-  def square!
+
+  def square_array()
     self.map! {|num| num ** 2}
   end
 end
