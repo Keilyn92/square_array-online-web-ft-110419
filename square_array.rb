@@ -1,3 +1,4 @@
-def 2 = [2,4,6]
-  2(2,4,6)
-end
+def square_array()
+  array.each(array)
+ end
+
